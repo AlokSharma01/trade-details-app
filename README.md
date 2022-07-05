@@ -4,6 +4,7 @@
 user can login,signup and logout to the website and can check details of stock trade by selecting company name and date.
 
 frontend : https://github.com/AlokSharma01/trade-details-app/tree/main/frontend
+
 backend : https://github.com/AlokSharma01/trade-details-app/tree/main/backend
 
 
