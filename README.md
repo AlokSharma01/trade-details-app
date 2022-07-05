@@ -16,7 +16,15 @@ backend : https://github.com/AlokSharma01/trade-details-app/tree/main/backend
 Insert gif or link to demo
 
 https://drive.google.com/file/d/1p0k59dK7vGehfBG0kQI9ZCqKytAJUxud/view?usp=sharing
+
+
 ## ScreenShots
+
+![1](https://user-images.githubusercontent.com/90955123/177316506-57ed7b9e-ec12-43f4-9eda-9889f4e8e16d.png)
+![2](https://user-images.githubusercontent.com/90955123/177316540-d4b6a49c-15a9-4a2b-bb34-a4ee0e1ee0fa.png)
+![3](https://user-images.githubusercontent.com/90955123/177316566-deba71c2-ce48-4b0c-ab50-47acb6a9fa9b.png)
+![4](https://user-images.githubusercontent.com/90955123/177316575-37f12e38-cf8a-492f-abe3-1d9fd7d8650e.png)
+![5](https://user-images.githubusercontent.com/90955123/177316588-0dc3cf23-f4d8-4030-9f0d-66d52d404ca8.png)
 
 
 ## Installation
