@@ -15,7 +15,7 @@ export const Login = () => {
 	const handleSubmit = async (e) => {
 		e.preventDefault();
 		try {
-			const url = "http://localhost:8000/api/auth";
+			const url = "https://trades-sever.herokuapp.com/api/auth";
 			const { data: res } = await axios.post(url, data);
 			localStorage.setItem("token", res.data);
 			window.location = "/";
